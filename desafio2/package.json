@@ -1,0 +1,20 @@
+{
+  "name": "desafios",
+  "version": "1.0.0",
+  "main": "desafio1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicolagou/backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicolagou/backend/issues"
+  },
+  "homepage": "https://github.com/nicolagou/backend#readme",
+  "description": ""
+}
