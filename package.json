@@ -19,5 +19,6 @@
   "homepage": "https://github.com/nicolagou/desafiosBackend43360#readme",
   "dependencies": {
     "express": "^4.18.2"
-  }
+  },
+  "type": "module"
 }
